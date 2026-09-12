@@ -2,27 +2,27 @@
   "repo": "fivestargroup",
   "feeds": [
     {
-      "source": "https://fivestargroup.in/feed/",
-      "feed_url": "https://fivestargroup.in/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
       "source": "https://fivestargroup.in/contact-us/",
-      "feed_url": "https://fivestargroup.in/feed/",
+      "feed_url": "https://fivestargroup.in/contact-us/blog/feed/",
       "title": "",
       "saved": 0,
       "method": "discovered"
     },
     {
       "source": "https://fivestargroup.in/news-media/",
-      "feed_url": "https://fivestargroup.in/feed/",
+      "feed_url": "https://fivestargroup.in/news-media/blog/feed/",
       "title": "",
       "saved": 0,
       "method": "discovered"
+    },
+    {
+      "source": "https://fivestargroup.in/feed/",
+      "feed_url": "https://fivestargroup.in/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-08-30T22:33:40Z"
+  "fetched": "2026-09-06T19:17:18Z"
 }
