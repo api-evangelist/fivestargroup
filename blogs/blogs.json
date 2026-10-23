@@ -16,20 +16,20 @@
       "method": "feed"
     },
     {
-      "source": "https://fivestargroup.in/contact-us/blog/feed/",
-      "feed_url": "https://fivestargroup.in/contact-us/blog/feed/",
+      "source": "https://fivestargroup.in/news-media/blog/feed/",
+      "feed_url": "https://fivestargroup.in/news-media/blog/feed/",
       "title": "",
       "saved": 0,
       "method": "feed"
     },
     {
-      "source": "https://fivestargroup.in/news-media/blog/feed/",
-      "feed_url": "https://fivestargroup.in/news-media/blog/feed/",
+      "source": "https://fivestargroup.in/contact-us/blog/feed/",
+      "feed_url": "https://fivestargroup.in/contact-us/blog/feed/",
       "title": "",
       "saved": 0,
       "method": "feed"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-10T13:15:00Z"
+  "fetched": "2026-10-17T14:53:57Z"
 }
